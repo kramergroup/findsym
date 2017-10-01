@@ -9,7 +9,7 @@ cite ISOTROPY Software Suite, iso.byu.edu and also H. T. Stokes and D. M. Hatch,
 
 Please refer to the [FINDSYM help pages](http://stokes.byu.edu/iso/findsymhelp.php) for a description of the input format.
 
-> Note: For some reason, lattice, atomic, and magnetic accuracy has to be provided separately. See the provided sample input.
+> Note: For some reason, lattice, atomic, and magnetic accuracy has to be provided separately in the input file. See the provided sample input.
 
 ## How to run
 
