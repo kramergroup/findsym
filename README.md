@@ -14,5 +14,5 @@ Please refer to the [FINDSYM help pages](http://stokes.byu.edu/iso/findsymhelp.p
 ## How to run
 
 ```bash
-docker run -i kramergroup/findsym < fcc.str
+docker run -i --rm kramergroup/findsym < fcc.str
 ```
